@@ -16,7 +16,7 @@ function yourAnimal() {
 function add2(n) {
   let  two = 950
   return n + two
-
+add(2)
   // Feel free to move things around!
 
 }
